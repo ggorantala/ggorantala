@@ -2,9 +2,10 @@
 #### I am a Full Stack Developer, Freelancer
 After working for European government projects in Belgium for half a decade, I decided to enter the life of a freelancer, I had roughly 10 years of experience.
 
-Skills: 
-Backend: Java, Spring Framework (MVC, AOP, Cloud, JPA, Microservices), AWS, Jenkins, Struts, SQL, PostgreSQL, MongoDB, Firebase, Soy Templates etc.
-Frontend: JavaScript, TypeScript, React, Redux, Material UI, Semantic UI, Reack Hook Forms, Redux Forms, NodeJS, NextJS, StorybookJS, Cypress etc.
+#### Skills: 
+**Backend:** Java, Spring Framework (MVC, AOP, Cloud, JPA, Microservices), AWS, Jenkins, Struts, SQL, PostgreSQL, MongoDB, Firebase, Soy Templates etc.
+
+**Frontend:** JavaScript, TypeScript, React, Redux, Material UI, Semantic UI, Reack Hook Forms, Redux Forms, NodeJS, NextJS, StorybookJS, Cypress etc.
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning everything that is new!! 
