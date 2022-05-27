@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gopi Gorantala
 #### I am a Full Stack Developer, Freelancer
-After working for European government projects in Belgium for half a decade, I decided to enter the life of a freelancer, I had roughly 10 years of experience.
+After working on European government projects in Belgium(Europe) and US tech giants from India for a decade, I decided to enter the life of a freelancer. I had roughly 10 years of experience under my belt -- helping companies of different scales with Full Stack Development. It will be hard to find a technology I have not at least tried, heard, or touched upon in my career.
 
 #### Skills: 
 **Backend:** Java, Spring Framework (MVC, AOP, Cloud, JPA, Microservices), AWS, Jenkins, Struts, SQL, PostgreSQL, MongoDB, Firebase, Soy Templates etc.
