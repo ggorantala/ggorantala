@@ -9,7 +9,7 @@ After working on European government projects in Belgium(Europe) and US tech gia
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning everything that is new!! 
-- 👯 I’m looking to collaborate on Java, JS, React, Spring, Coding Interviews, Problem Solving. 
+- 👨‍💻 I’m looking to collaborate on Java, JS, React, Spring, Coding Interviews, Problem Solving. 
 - 📫 How to reach me: https://twitter.com/ggorantala 
 
 
