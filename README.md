@@ -13,7 +13,7 @@ My technology stack includes:
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [ggorantala.dev](http://ggorantala.dev)
-* ✉️  You can contact me at [https://twitter.com/ggorantala](mailto:https://twitter.com/ggorantala)
+* ✉️  You can contact me at [@twitter](https://twitter.com/ggorantala)
 * 🚀  I'm currently working on [sharing everything I know](http://ggorantala.dev)
 * 🧠  I'm learning Advanced DSA, Mathematics
 * 🤝  I'm open to collaborating on Java, Spring, Microservices, react and other cool stuff
