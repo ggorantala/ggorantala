@@ -10,8 +10,6 @@ My technology stack includes:
 1. **Backend:** Java, Spring(Boot, Cloud, Security), Microservices, AWS, Kafka, Redis, Jenkins, Docker, Kubernetes, 
 2. **Frontend:** JavaScript, React, Redux, React queries, React hook forms, TypeScript, etc.
 
-
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [ggorantala.dev](http://ggorantala.dev)
 * ✉️  You can contact me at [@twitter](https://twitter.com/ggorantala)
 * 🚀  I'm currently working on [sharing everything I know](http://ggorantala.dev)
