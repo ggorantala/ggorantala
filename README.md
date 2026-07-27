@@ -13,9 +13,5 @@ I'm a Sr. Staff-level engineer specialising in real-time, event-driven systems f
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ggorantala&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ggorantala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=ggorantala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-![Profile views](https://komarev.com/ghpvc/?username=ggorantala&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
