@@ -12,6 +12,3 @@ I'm a Sr. Staff-level engineer specialising in real-time, event-driven systems f
 ![](https://streak-stats.demolab.com/?user=ggorantala&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ggorantala&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ggorantala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
