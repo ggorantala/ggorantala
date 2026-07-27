@@ -4,17 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer | Java (Microservices), React
 -------------------------------------------------
 
-I'm a Full-Stack Engineer and mostly self-taught. I love to share my knowledge and create posts to help everyone and mentor. I worked for European government projects for close to 4 years in Belgium, startups and tech giants for another 6+ years in scaling applications. I had roughly 10 years of experience under my belt -- helping companies of different scales with full stack development. 
+I'm a Sr. Staff-level engineer specialising in real-time, event-driven systems for financial services. I build streaming platforms that have to be correct under load — where a dropped event is a reconciliation break, not a retry.
+
+Most of my work sits on Apache Kafka and Apache Flink. I architected and led the development of an event-driven platform processing transactional and reconciliation data across core banking systems: strict ordering guarantees, backward-compatible Avro schema evolution, exactly-once delivery, and event-time semantics that handle late and out-of-order arrivals without compromising financial-grade consistency.
+
+Beyond the pipelines, I own the harder architectural calls — event sourcing for auditable, replayable state transitions; polyglot persistence across Cassandra and Oracle; Kafka topology and partition strategy from topic design through broker tuning; reconciliation frameworks that catch data drift between ingestion, processing, and downstream consumption.
+
+Most recently, I led the technical transformation of an internally scoped banking platform into a SaaS-ready, multi-tenant product — defining tenancy boundaries, data isolation, and onboarding for deployment across ING country entities globally, working closely with infrastructure, compliance, and product.
+
+I act as the technical authority on Kafka and Flink for my team, spanning both sides of the discipline: developer-facing (stream design, schema evolution) and operational (cluster health, scaling, deployment, rollback).
+
+Core: Apache Kafka · Apache Flink · Event Sourcing · Stream Processing · Avro / Schema Registry · Cassandra · Oracle · Spring Boot · Multi-tenant SaaS Architecture
 
 My technology stack includes: 
-1. **Backend:** Java, Spring(Boot, Cloud, Security), Microservices, AWS, Kafka, Redis, Jenkins, Docker, Kubernetes, 
-2. **Frontend:** JavaScript, React, Redux, React queries, React hook forms, TypeScript, etc.
+1. **Backend:** Java21/25, Spring(Boot, Cloud, Security), Microservices, Apache Kafka, Apache Flink, Redis, Jenkins, Docker, Kubernetes 
+2. **Frontend:** JavaScript, Typescript, React, Redux, React queries, React Hook Form, etc.
 
 * 🖥️  See my portfolio at [ggorantala.dev](http://ggorantala.dev)
 * ✉️  You can contact me at [@twitter](https://twitter.com/ggorantala)
 * 🚀  I'm currently working on [sharing everything I know](http://ggorantala.dev)
-* 🧠  I'm learning Advanced DSA, Mathematics
-* 🤝  I'm open to collaborating on Java, Spring, Microservices, react and other cool stuff
+* 🧠  I'm learning Advanced DSA and Mathematics
+* 🤝  I'm open to collaborating on Java, Spring, Microservices, React, and other cool stuff
 * ⚡  Digital Nomad
 
 <a href="https://www.twitter.com/ggorantala" target="_blank" rel="noreferrer"><img
